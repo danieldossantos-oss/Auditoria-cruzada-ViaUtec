@@ -1,7 +1,5 @@
 # Auditoría cruzada — ViaUtec
 
-> **Plantilla de ejemplo para la actividad presencial de UTEC.** 
-
 
 
 ## 1. Datos de la auditoría
@@ -19,7 +17,7 @@
 
 ## 2. Resumen ejecutivo
 
-**Objetivo:** evaluar la usabilidad, las validaciones funcionales, la seguridad de acceso y la consistencia de las operaciones de pago en un ambiente de pruebas.
+**Objetivo:** evaluar la usabilidad, las validaciones funcionales, la seguridad de acceso y la consistencia de las operaciones en una app movile.
 
 **Resultado general:** Probamos el Registro de usuarios, creacion de viajes y unirnos a un viaje.
 
